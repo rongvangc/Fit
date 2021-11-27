@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Park Abs",
+    "duration": 20,
+    "level": "Beginner"
+  },
+  {
+    "id": "2",
+    "title": "Abs",
+    "duration": 30,
+    "level": "Extremely"
+  },
+  {
+    "id": "3",
+    "title": "Body Shock",
+    "duration": 3,
+    "level": "Hard"
+  },
+  {
+    "id": "4",
+    "title": "Biceps - Back",
+    "duration": 40,
+    "level": "Normal"
+  },
+  {
+    "id": "5",
+    "title": "Biceps - Triceps",
+    "duration": 3,
+    "level": "Extremely"
+  }
+]

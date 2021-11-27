@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "level": "beginner",
+    "slug": "beginner"
+  },
+  {
+    "id": "2",
+    "level": "normal",
+    "slug": "normal"
+  },
+  {
+    "id": "3",
+    "level": "hard",
+    "slug": "hard"
+  },
+  {
+    "id": "4",
+    "level": "extremely",
+    "slug": "extremely"
+  }
+]
